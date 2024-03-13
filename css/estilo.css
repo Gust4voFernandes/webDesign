@@ -1,0 +1,39 @@
+.navbar{
+    background-color: rgb(141, 191, 65);
+}
+
+.navbar a{
+    color: rgb(49, 53, 61);
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.navbar-toggler{
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+    border: 0;
+
+}
+
+.navbar-toggler:focus{
+    box-shadow: 0 0 0 transparent;
+}
+
+.dropdown-menu{
+    background-color: rgb(141, 191, 65);
+    border-radius: 0;
+    border: 0;
+}
+
+.dropdown-item:hover{
+    background-color: rgb(49, 53, 61);
+    color: rgb(255, 255, 255);
+}
+
+.fa-brands{
+    font-size: 1.5rem;
+}
+
+.fa-brands:hover{
+    color: rgb(255, 255, 255);
+}
